@@ -78,4 +78,4 @@ The SCS score shows a slight decline as the length of stay increases. This could
 For students who have stayed for 5 years or more, the sample sizes are very small (1-3 students), so it's difficult to draw reliable conclusions from this data.
 
 ### Overall Observation:
-Overall, the data suggests that for students who stay between 1 and 4 years, there is an increase in acculturative stress (AS score) and a slight decline in social and cultural success (SCS score). This might indicate that as time passes, students face greater challenges in adapting to a new culture, which leads to higher levels of stress and possibly a sense of diminishing social success.
+Overall, the data suggests that for students who stay between 1 and 4 years, there is an increase in acculturative stress (ASISS score) and a slight decline in social and cultural success (SCS score). This might indicate that as time passes, students face greater challenges in adapting to a new culture, which leads to higher levels of stress and possibly a sense of diminishing social success.
