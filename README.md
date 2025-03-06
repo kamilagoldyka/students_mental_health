@@ -68,7 +68,7 @@ ORDER BY
 
 ## Conclusions
 
-### Acculturative Stress (AS) Score
+### Acculturative Stress (ASISS) Score
 The AS score appears to increase as the length of stay increases for students who have been in the program for 1-4 years. This suggests that, over time, students might experience increasing stress related to acculturation. As students stay longer, they may face more complex challenges related to identity, social integration, and cultural differences, leading to higher levels of acculturative stress.
 
 ### Average SCS (Social and Cultural Success) Score
