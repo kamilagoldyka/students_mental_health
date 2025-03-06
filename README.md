@@ -68,16 +68,14 @@ ORDER BY
 
 ## Conclusions
 
-### Trend for students staying 1-4 years
-Average AS (Academic Success) Score: There's a noticeable increase in the average AS score as the length of stay increases for students who have been in the program for 1-4 years. This suggests that students may be improving in their academic success over time.
+### Acculturative Stress (AS) Score
+The AS score appears to increase as the length of stay increases for students who have been in the program for 1-4 years. This suggests that, over time, students might experience increasing stress related to acculturation. As students stay longer, they may face more complex challenges related to identity, social integration, and cultural differences, leading to higher levels of acculturative stress.
 
 ### Average SCS (Social and Cultural Success) Score
-Interestingly, the average SCS score slightly decreases as the length of stay increases. This could suggest that, while students may become more academically successful over time, they might experience a slight decline in social or cultural adaptation.
+The SCS score shows a slight decline as the length of stay increases. This could indicate that while students may initially feel a sense of social and cultural success, over time, they may face difficulties in maintaining or expanding their social connections and cultural adaptation.
 
 ### Caution for students staying 5+ years
 For students who have stayed for 5 years or more, the sample sizes are very small (1-3 students), so it's difficult to draw reliable conclusions from this data.
 
 ### Overall Observation:
-Overall, the data suggests that for students who stay between 1 and 4 years, academic success (AS score) seems to improve, while social and cultural success (SCS score) experiences a small decline. However, further analysis with a larger sample or over a longer period might provide more concrete insights into these trends.
-
-
+Overall, the data suggests that for students who stay between 1 and 4 years, there is an increase in acculturative stress (AS score) and a slight decline in social and cultural success (SCS score). This might indicate that as time passes, students face greater challenges in adapting to a new culture, which leads to higher levels of stress and possibly a sense of diminishing social success.
