@@ -1,4 +1,4 @@
-## students_mentalhealth
+## students_mental_health
 # 🌍 Mental Health & Studying Abroad: An Analysis  
 
 Does studying in a different country impact mental health? A 2018 survey conducted by a Japanese international university examined this question, with findings published in 2019 after approval from multiple ethical and regulatory boards.  
